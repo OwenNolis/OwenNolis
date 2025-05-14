@@ -21,11 +21,11 @@ I'm always looking for opportunities to **learn new technologies**, **tackle cha
 
 ### 🛠️ Projects
 
-- 🔬 **[APAQE](#)** – Full-stack environmental monitoring system with real-time air quality sensor data. Built the API and dashboard interface.  
-- 🕹️ [**DamnedOfTheDeath**](https://github.com/OwenNolis/DamnedOfTheDeath){:target="_blank"} – A 2D platformer game built using **MonoGame**.
-- 🧭 **[MyCityTrip](#)** – A mobile city trip planner app built with **Flutter**.
-- ✈️ **[Air Racers](#)** – Plane control simulation game with realistic mechanics with AI training.
-- 🌿 **[EcoQuest 3D](#)** – A 3D Unity game focused on environmental exploration and education.
+- 🔬 [**APAQE**](https://github.com/APAQE-2024-2025) – Full-stack environmental monitoring system with real-time air quality sensor data. Built the API and dashboard interface.  
+- 🕹️ [**DamnedOfTheDeath**](https://github.com/OwenNolis/DamnedOfTheDeath) – A 2D platformer game built using **MonoGame**.
+- 🧭 [**MyCityTrip**](https://github.com/OwenNolis/MyCityTrip) – A mobile city trip planner app built with **Flutter**.
+- ✈️ [**Air Racers**](https://github.com/AP-IT-GH/eindproject-RobeirDenExpeir) – Plane control simulation game with realistic mechanics with AI training.
+- 🌿 [**EcoQuest 3D**](https://github.com/OwenNolis/2023-3D-Game-EcoQuest) – A 3D Unity game focused on environmental exploration and education.
 
 ---
 
