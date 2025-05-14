@@ -21,7 +21,7 @@ I'm always looking for opportunities to **learn new technologies**, **tackle cha
 
 ### 🛠️ Projects
 
-- 🔬 **[APAQE](#)** – Full-stack environmental monitoring system with real-time air quality sensor data. Built the API and dashboard interface.  
+- 🔬 **[APAQE](#https://github.com/OwenNolis/DamnedOfTheDeath)** – Full-stack environmental monitoring system with real-time air quality sensor data. Built the API and dashboard interface.  
 - 🕹️ **[DamnedOfTheDeath](#)** – A 2D platformer game built using **MonoGame**.
 - 🧭 **[MyCityTrip](#)** – A mobile city trip planner app built with **Flutter**.
 - ✈️ **[Air Racers](#)** – Plane control simulation game with realistic mechanics with AI training.
