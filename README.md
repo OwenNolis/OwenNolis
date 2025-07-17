@@ -11,7 +11,7 @@ I'm currently studying **Applied Computer Science**, with hands-on experience in
 
 - **Web Development**: JavaScript, TypeScript, Angular, Node.js, Express, Java, C#, HTML, CSS, TailwindCSS
 - **Databases**: MySQL, PostgreSQL, Firebase Firestore, Redis
-- **Mobile Development**: Flutter, Kotlin
+- **Mobile Development**: Flutter, Kotlin, Dart
 - **Game Development**: Unity (C#), MonoGame
 - **Tools & Frameworks**: GitHub, Git, Swagger, Docker, Jenkins, AWS, Gitlab
 
