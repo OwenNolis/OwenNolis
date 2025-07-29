@@ -9,11 +9,11 @@
 
 I'm currently studying **Applied Computer Science**, with hands-on experience in:
 
-- **Web Development**: JavaScript, TypeScript, Angular, Node.js, Express, Java, C#, HTML, CSS, TailwindCSS
-- **Databases**: MySQL, PostgreSQL, Firebase Firestore, Redis
+- **Web Development**: JavaScript, TypeScript, Angular, Node.js, Express, Deno, Oak, Java, C#, HTML, CSS, TailwindCSS
+- **Databases**: MySQL, PostgreSQL, Firebase Firestore, Redis, Deno KV
 - **Mobile Development**: Flutter, Kotlin, Dart
 - **Game Development**: Unity (C#), MonoGame
-- **Tools & Frameworks**: GitHub, Git, Swagger, Docker, Jenkins, AWS, Gitlab
+- **Tools & Frameworks**: GitHub, Git, Swagger, Docker, Jenkins, AWS, Gitlab, Deno Deploy
 
 I'm always looking for opportunities to **learn new technologies**, **tackle challenging projects**, and **collaborate with other developers**. Whether it's backend APIs or player mechanics in a game, I'm excited to keep pushing my limits.
 
@@ -26,6 +26,7 @@ I'm always looking for opportunities to **learn new technologies**, **tackle cha
 - 🧭 [**MyCityTrip**](https://github.com/OwenNolis/MyCityTrip) – A mobile city trip planner app built with **Flutter**.
 - ✈️ [**Air Racers**](https://github.com/AP-IT-GH/eindproject-RobeirDenExpeir) – Plane control simulation game with realistic mechanics with AI training.
 - 🌿 [**EcoQuest 3D**](https://github.com/OwenNolis/2023-3D-Game-EcoQuest) – A 3D Unity game focused on environmental exploration and education.
+- 📋 [**Deno Todo REST API**](https://github.com/OwenNolis/deno-todo-rest-api) - A Deno Todo REST API for a Todo list with full front- and backend running locally and deployed.
 
 ---
 
