@@ -10,7 +10,7 @@
 I'm currently studying **Applied Computer Science**, with hands-on experience in:
 
 - **Web Development**: JavaScript, TypeScript, Angular, Node.js, Express, Nest.js, Deno, Oak, Java, C#, HTML, CSS, TailwindCSS
-- **Databases**: MySQL, PostgreSQL, Firebase Firestore, Redis, Deno KV
+- **Databases**: MySQL, PostgreSQL, Firebase Firestore, Redis, Deno KV, MongoDB
 - **Mobile Development**: Flutter, Kotlin, Dart, AndroidStudio
 - **Game Development**: Unity (C#), MonoGame
 - **Tools & Frameworks**: GitHub, Git, Npm, Swagger, Docker, Jenkins, AWS, Gitlab, Deno Deploy
