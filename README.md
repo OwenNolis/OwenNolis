@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Owen Nolis
 
-🎮 I'm a 23-year-old **software and game developer** with a passion for creating impactful applications and immersive game experiences.  
+🎮 I'm a 24-year-old **software and game developer** with a passion for creating impactful applications and immersive game experiences.  
 🧠 Constantly learning and improving my skills — from building full-stack web apps to developing 2D and 3D games.
 
 ---
